@@ -1,0 +1,15 @@
+{
+  "name": "bamazon-custoer",
+  "version": "1.0.0",
+  "description": "customer implementation",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/ianstahlp/bamazon"
+  },
+  "author": "Ian Stahl",
+  "license": "ISC"
+}
